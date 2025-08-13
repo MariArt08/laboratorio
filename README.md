@@ -32,7 +32,7 @@ Incluye seguridad avanzada, cifrado de datos, auditoría y una interfaz gráfica
 
 
 
-## Interfaz Gráfica (Java Swing / NetBeans)
+## Interfaz Gráfica (Java  / NetBeans)
 
 #### Ventana Principal (`JFrame`)
 - Botones de acceso rápido:
