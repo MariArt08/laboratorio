@@ -1,6 +1,6 @@
  Sistema de Gestión de Aerolíneas
 
-Proyecto académico que integra **Microsoft SQL Server** (backend) y **Java con NetBeans** (frontend) para la gestión integral de un aeropuesto con vuelos, pasajeros y reservas.  
+Proyecto académico que integra **Microsoft SQL Server** (backend) y **Java con NetBeans** (frontend) para la gestión integral de un aeropuerto con vuelos, pasajeros y reservas.  
 Incluye seguridad avanzada, cifrado de datos, auditoría y una interfaz gráfica intuitiva.
 
 
